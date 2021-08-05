@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=eliforte&color=green" alt="eliforte" /> 
 
-Atualmente me dedicando no Front-end e estudos de teste com RTL e Jest
+<h3> Atualmente me dedicando aos estudos de Front-end e de teste com RTL e Jest </h3>
 
 <div>
   <a href="https://github.com/eliforte">
@@ -27,5 +27,10 @@ Atualmente me dedicando no Front-end e estudos de teste com RTL e Jest
   <a href="https://www.linkedin.com/in/elias-forte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/eliforte/eliforte/blob/output/github-contribution-grid-snake.svg)
- 
+   
 </div>
+  <h3> ReadME feito com base nesse video da Rafaella Ballerini </h3>
+  <div>
+  <h3> Aqui 👇 </h3>
+<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  </div>
