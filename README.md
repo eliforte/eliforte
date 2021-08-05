@@ -1,4 +1,4 @@
-### Oláa! Eu me chamo Elias Forte
+### Hi there! Me chamo Elias Forte
 
 <img src="https://komarev.com/ghpvc/?username=eliforte&color=green" alt="eliforte" /> 
 
