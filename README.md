@@ -2,7 +2,7 @@
 
 <img src="https://komarev.com/ghpvc/?username=eliforte&color=green" alt="eliforte" /> 
 
-<h3> Atualmente estou estudando desenvolvimento Front-end usando React e também desenvolvimento de testes usando RTL e Jest </h3>
+<h3>Desenvolvedor Front-end e estudando para se tornar um FullStack</h3>
 
 <div>
   <a href="https://github.com/eliforte">
