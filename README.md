@@ -2,8 +2,6 @@
 
 <img src="https://komarev.com/ghpvc/?username=eliforte&color=green" alt="eliforte" /> 
 
-<h3>Desenvolvedor Front-end e estudando para se tornar um FullStack</h3>
-
 <div>
   <a href="https://github.com/eliforte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliforte&show_icons=true&theme=radical&include_all_commits=true&count_private=truew"/>
