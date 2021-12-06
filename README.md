@@ -6,19 +6,36 @@
   <a href="https://github.com/eliforte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliforte&show_icons=true&theme=radical&include_all_commits=true&count_private=truew"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliforte&layout=compact&langs_count=7&theme=radical"/>
+</div
+    
+<div>
+    <h3>Front-end</h3>
+  <div style="display: inline_block"><br>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+</div>
+
+<div>
+  <h3>Back-end</h3>
+  <img height="50px" src="https://img.icons8.com/fluency/48/000000/node-js.png"/>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mocha/mocha-plain.svg" />
 </div>
 <div>
-  ### Front-end 
-  
-  <div style="display: inline_block"><br>
-  <img align="center" alt="eli-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
-  <img align="center" alt="eli-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
-  <img align="center" alt="eli-HTML" height="30" width="100" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="eli-CSS" height="30" width="100" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="eli-Redux" height="30" width="100" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white">
-  <img align="center" alt="eli-Router" height="30" width="130" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
+  <h3>Outros</h3>
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" />
 </div>
- 
+
  ##
   
  <div> 
