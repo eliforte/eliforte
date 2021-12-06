@@ -8,6 +8,8 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliforte&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div>
+  ### Front-end 
+  
   <div style="display: inline_block"><br>
   <img align="center" alt="eli-Js" height="30" width="120" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="eli-React" height="30" width="100" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
