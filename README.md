@@ -1,4 +1,4 @@
-### Hi there! Sou Elias Forte, estudante de desenvolvimento de software.
+### Hi there! Sou Elias Forte, desenvolvedor de software.
 
 <img src="https://komarev.com/ghpvc/?username=eliforte&color=green" alt="eliforte" /> 
 
