@@ -32,7 +32,7 @@
     
 </div>
 
-  <h2>Projeto de destaque</h2>
+  <h2>Projetos de destaques</h2>
   <a href="https://github.com/eliforte/daily-schedule" ><img src="./img/daily-schedule.svg" alt="card-details-schedule"/></a>
   <a href="https://github.com/eliforte/daily-schedule-api" ><img src="./img/daily-schedule-api.svg" alt="card-details-schedule"/></a>
     
