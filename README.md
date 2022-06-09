@@ -37,6 +37,8 @@
     <a href="https://github.com/eliforte/daily-schedule"><img width="49%" src="./img/daily-schedule.svg" alt="card-details-schedule"/></a>
     <a href="https://github.com/eliforte/daily-schedule-api"><img width="49%" src="./img/daily-schedule-api.svg" alt="card-details-schedule"/></a>
   </div>
+  
+ 
  ##
   
  <div> 
