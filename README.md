@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=eliforte&color=green" alt="eliforte" /> 
 
 <div>
-  <a href="https://github.com/eliforte">
+  <a href="https://github.com/eliforte"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliforte&show_icons=true&theme=radical&include_all_commits=true&count_private=truew"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliforte&layout=compact&langs_count=7&theme=radical"/>
 </div
@@ -32,12 +32,12 @@
     
 </div>
 
-  <h3>Projeto de destaque</h3>
-
-  <a>
-    <img src="https://drive.google.com/file/d/1dN3EJv5ZTqWKnnM5G1ECgNegArdAGsyt/view?usp=sharing" alt="card-details-schedule"/>
-  </a>
-    
+<div>
+  <h2>Projeto de destaque</h2>
+  <a href="https://github.com/eliforte/daily-schedule" ><img src="./img/daily-schedule.svg" alt="card-details-schedule"/></a>
+  <a href="https://github.com/eliforte/daily-schedule-api" ><img src="./img/daily-schedule.svg" alt="card-details-schedule"/></a>
+</div>
+  
     
  ##
   
