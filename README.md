@@ -32,6 +32,13 @@
     
 </div>
 
+  <h3>Projeto de destaque</h3>
+
+  <a>
+    <img src="https://www.figma.com/file/d9Pv7CLEmutPeOpPegc6RO/Model-Repository-Cards?node-id=202%3A51"/>
+  </a>
+    
+    
  ##
   
  <div> 
