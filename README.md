@@ -33,13 +33,14 @@
 </div>
 
   <h2>Projetos de destaques</h2>
-  <a width="49%" href="https://github.com/eliforte/daily-schedule" ><img src="./img/daily-schedule.svg" alt="card-details-schedule"/></a>
-  <a width="49%" href="https://github.com/eliforte/daily-schedule-api" ><img src="./img/daily-schedule-api.svg" alt="card-details-schedule"/></a>
-    
+  <div>
+    <a width="49%" href="https://github.com/eliforte/daily-schedule" ><img src="./img/daily-schedule.svg" alt="card-details-schedule"/></a>
+    <a width="49%" href="https://github.com/eliforte/daily-schedule-api" ><img src="./img/daily-schedule-api.svg" alt="card-details-schedule"/></a>
+  </div>
  ##
   
  <div> 
-  <a href = "mailto:eliasforte.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="mailto:eliasforte.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elias-forte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
   <h3> ReadME feito com base nesse video da Rafaella Ballerini </h3>
