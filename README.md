@@ -1,4 +1,4 @@
-### Hi there! Sou Elias Forte, desenvolvedor de software.
+### Hi there! Sou Elias Forte, desenvolvedor web fullstack.
 
 <img src="https://komarev.com/ghpvc/?username=eliforte&color=green" alt="eliforte" /> 
 
