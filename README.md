@@ -45,8 +45,3 @@
   <a href="mailto:eliasforte.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/elias-forte/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-  <h3> ReadME feito com base nesse video da Rafaella Ballerini </h3>
-  <div>
-  <h3> Aqui 👇 </h3>
-<a href="https://www.youtube.com/watch?v=TsaLQAetPLU&ab_channel=RafaellaBallerini" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  </div>
