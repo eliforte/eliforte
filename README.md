@@ -2,7 +2,7 @@
 
 **Software Engineer** based in Fortaleza, Brazil, with 5+ years building scalable web applications and AI-powered SaaS platforms for the digital marketing, legal, education and healthcare sectors.
 
-I work across the whole stack — Node.js, TypeScript, NestJS, React and Next.js — and lately most of my work sits where product meets AI: autonomous agents, RAG with vector databases, and LLM features that turn raw data into decisions. Today I lead engineering at **AdDash**, a paid media management SaaS, owning everything from architecture to production releases.
+I work across the whole stack with Node.js, TypeScript, NestJS, React and Next.js, and lately most of my work sits where product meets AI: autonomous agents, RAG with vector databases, and LLM features that turn raw data into decisions. Today I lead engineering at **AdDash**, a paid media management SaaS, owning everything from architecture to production releases.
 
 ### Tech stack
 
@@ -34,9 +34,11 @@ The source code of these projects is private (company and client work), so each 
 ### GitHub activity
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=eliforte&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eliforte&layout=compact&langs_count=7&theme=radical" alt="Top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=eliforte&theme=radical" alt="GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=eliforte&theme=radical" alt="Most used languages" />
 </p>
+
+<img src="https://streak-stats.demolab.com/?user=eliforte&theme=radical" alt="Contribution streak" />
 
 <img src="https://raw.githubusercontent.com/eliforte/eliforte/output/github-contribution-grid-snake.svg" alt="Contribution snake" />
 
